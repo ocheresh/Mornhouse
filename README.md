@@ -1,5 +1,5 @@
 # Mornhouse
-firstpush
+
 Mornhouse
 Test task for the position of an Android Developer
 
